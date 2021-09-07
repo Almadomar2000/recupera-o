@@ -87,5 +87,4 @@ class Main:
                 self.tarefas.remove(i)
                 print("Excluído com sucesso")
 
-
 Main().v_principal()
